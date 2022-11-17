@@ -1,4 +1,4 @@
-# Entitlements in Real-Time
+# Data Streaming TigerGraph
 
 This repository is the accompanying proof-of-concept implementation to the "Entitlements in
 Real-Time" blog post located [here](https://www.experoinc.com/post/graph-based-rbac-using-streaming-synchronization).
