@@ -17,7 +17,7 @@ Confluent cluster, and a TigerGraph instance.
 ## Steps
 
 1. Run all the containers up with `docker-compose up -d`
-2. Run the database schema create SQL with follow LDAP.sql in [dbeaver](https://dbeaver.io/download/) or some other database interface.
+2. Run the database schema create create SQL by following LDAP.sql in [dbeaver](https://dbeaver.io/download/) or some other database interface.
 3. Create the JDBC Source Connectors in Control Center (`localhost:9021`) or through the REST API.
 Images for Control Center are located in the `images` folder, and the JSON configs are located in the
 `kafka-connect` folder.
