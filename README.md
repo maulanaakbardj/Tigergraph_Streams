@@ -27,6 +27,8 @@ Images for Control Center are located in the `images` folder, and the JSON confi
 ![image](https://user-images.githubusercontent.com/67249292/202384651-78046042-1a39-445e-8577-1edb474328e0.png)
 
 7. Run `gsql /home/tigergraph/entitlements.gsql`. This creates the schema and loading jobs.
+![image](https://user-images.githubusercontent.com/67249292/202528364-fdf46d72-c388-4a20-8d2e-a0a5e16cec40.png)
+
 8. Run `gsql` to enter the GSQL console.
 
 ```
